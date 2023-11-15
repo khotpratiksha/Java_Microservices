@@ -1,0 +1,41 @@
+
+Q1.what are the preiitive data types in Java ?
+Ans:
+byte 
+short
+int 
+char
+long 
+float
+double
+boolean
+String
+
+Q2.What is Identifier
+Ans:Identifiers in java are symbolic names used for identification.Identifier is a name given to a package ,class ,Interface ,method or variable .All identifier must have different names.
+
+Q3.What is final class?
+Ans:A class declared with final keyword is called final class.A class which is not inherited by another class.
+
+Q4.what are the ways to make a class final?
+Ans: First way to make class is final is to declare class with final keyword and another way to make classs final is to make all its constructors private as .If a class has only private subclass it can not be subclassed.
+
+Q5.Can we create an instance of final class in another class ?
+Ans:Yes,We can create an instance of final class in another class but can noy be inherited.
+
+Q5.What is volatile keyword used for?
+Ans:Volatile is a declaration that variable can be accessed by multiple threads.
+
+Q6:what is the use of transient keyword ? 
+Ans:In java it is used to indicate that field should not be serialized
+
+Q7:What are the type of casting ?
+Ans:These are type of testing
+Primitive type of casting: When the data is casted from one primitive type to another primitive type.
+Derived type of Casting: When the data is casted from one derived type to another derived type.
+
+Q8>What is the diffrenece between keywords,identifiers and literals in java ?
+Ans:Keywords are the reserved words that has predefined meaning for compilers and hence are restricted to be identifiers
+Lierals are the value assigned to identifiers.
+Identifiers are constructs name assigned to class,method etc.
+
